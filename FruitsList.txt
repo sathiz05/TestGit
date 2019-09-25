@@ -1,8 +1,1 @@
 Apple
-<<<<<<< HEAD
-Orange
-grapes
-
-=======
-Orange
->>>>>>> parent of 16b837d... grapes
